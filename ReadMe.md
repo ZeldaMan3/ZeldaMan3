@@ -9,7 +9,6 @@ cristobal-portfolio ~ bash
 
 <div align="center">
 
-# Cristóbal Urbina
 ### IT Support & Developer · Santiago, Chile 🇨🇱
 
 **Asistente TI N1–N2 @ SRK Consulting** · Analista Programador · Cursando Ingeniería Informática
