@@ -1,27 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects like bash, python, cmd/powershell scripts.<br><br>🌱 I’m currently learning Cybersecurity, Pentesting, Hacking and Offensive Scripts<br><br>❓ Ask me about anything related to Informatics Threats, Subnetting, Linux, etc<br><br>⚡ Fun fact: I make useless scripts<br>
+<div align="center">
 
+```
+███████╗███████╗██╗     ██████╗  █████╗ ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗
+╚══███╔╝██╔════╝██║     ██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║╚════██╗
+  ███╔╝ █████╗  ██║     ██║  ██║███████║██╔████╔██║███████║██╔██╗ ██║  █████╔╝
+ ███╔╝  ██╔══╝  ██║     ██║  ██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║  ╚═══██╗
+███████╗███████╗███████╗██████╔╝██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝
+╚══════╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
+```
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZeldaMAn3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZeldaMAn3&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaMAn3&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**`> Programo puras weas desde Chile 🇨🇱`**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZeldaMAn3&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZeldaMAn3&limit=5&theme=discord&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZeldaMAn3&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## $ whoami
+
+Soy un tipo de Chile que le gusta meterse donde no lo llaman dentro de los sistemas. Me interesa la ciberseguridad, el pentesting y automatizar cosas con scripts que a veces sirven y a veces no. Aprendo haciendo, formateo seguido y subo todo igual.
+
+- 📍 Ubicación: **Chile**
+- 💬 Discord: **venomouscat**
+- 🔓 Estado actual: *aprendiendo a romper cosas para entender cómo funcionan*
+
+---
+
+## $ ls skills/
+
+### Lenguajes
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670A0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=2C2D72)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE)
+
+### Web & Bases de datos
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=8511FA)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00758F)
+
+### Área de interés
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+
+---
+
+## $ cat proyectos.txt
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [proyectoxd](https://github.com/ZeldaMan3/proyectoxd) | Repo personal donde subo weas random porque formateo cada dos por tres | `Python` |
+| [UF_PHP_Chile](https://github.com/ZeldaMan3/UF_PHP_Chile) | Obtiene el valor de la UF del día actual en Chile | `PHP` |
+| [Terminal_Javascript](https://github.com/ZeldaMan3/Terminal_Javascript) | Terminal simulada en el navegador | `JavaScript` |
+| [zm3_disponibilidad](https://github.com/ZeldaMan3/zm3_disponibilidad) | Script de disponibilidad para oficiales con notificaciones via Ox_Lib | `Lua` |
+| [Asignar-carpetas-por-usuarios](https://github.com/ZeldaMan3/Asignar-carpetas-por-usuarios) | Asignación automática de carpetas por usuario | `Scripts` |
+
+---
+
+## $ top --stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ZeldaMan3&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeldaMan3&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+![Streak](https://streak-stats.demolab.com?user=ZeldaMan3&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## $ ping me
+
+¿Preguntas sobre Linux, subnetting, amenazas informáticas o scripting? Abre un issue o búscame por Discord.
+
+> *"El mejor script es el que funciona. El segundo mejor es el mío."*
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ZeldaMan3&color=58a6ff&style=flat-square&label=visitas)
+
+</div>
