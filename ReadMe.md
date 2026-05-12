@@ -1,10 +1,10 @@
 ```
-cristobal-portfolio ~ bash
+zeldaman3-portfolio ~ bash
 ▸ loading portfolio.sh .......................................... OK
 ▸ init Microsoft365 modules .................................... OK
 ▸ loading IT support experience ................................ OK
 ▸ connecting to Active Directory ............................... OK
-▸ cristobal.urbina loaded — ready. █
+▸ Zeldaman3 loaded — ready. █
 ```
 
 <div align="center">
@@ -23,7 +23,7 @@ cristobal-portfolio ~ bash
 
 ## `$ whoami`
 
-Titulado como **Analista Programador** por INACAP Maipú, trabajando actualmente como **Asistente TI N1–N2 en SRK Consulting** — consultora internacional de minería y medioambiente. Me muevo entre el soporte técnico corporativo, la administración de plataformas Microsoft 365 y el desarrollo de scripts de automatización para el día a día del área TI.
+Titulado como **Analista Programador** por INACAP Maipú, trabajando actualmente como **Asistente TI N1–N2**. Me muevo entre el soporte técnico corporativo, la administración de plataformas Microsoft 365 y el desarrollo de scripts de automatización para el día a día del área TI.
 
 Interesado en crecer hacia ciberseguridad, automatización y sistemas. Inglés **B2 Upper Intermediate**. Aprendo haciendo, no solo estudiando.
 
