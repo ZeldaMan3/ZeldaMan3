@@ -15,7 +15,6 @@ zeldaman3-portfolio ~ bash
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/cristobal-u-02aa01252)
 [![Portfolio](https://img.shields.io/badge/zeldaman3.cl-0d1117?style=flat-square&logo=firefox&logoColor=58a6ff)](https://zeldaman3.cl)
-[![Disponible](https://img.shields.io/badge/estado-disponible%20para%20oportunidades-0d1117?style=flat-square&logo=circle&logoColor=3fb950)]()
 
 </div>
 
